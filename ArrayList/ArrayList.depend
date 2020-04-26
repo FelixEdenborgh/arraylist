@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566150276 source:c:\users\felix\documents\cprogramms\arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
